@@ -2,6 +2,8 @@
 
 ### Built with Angular and Firebase
 
+#### Project link: [Oshop](https://oshop-7ad57.firebaseapp.com/)
+
 ## Project Structure
 
 - admin
@@ -65,4 +67,4 @@
     - shipping-form : takes in user information, name, address 1, address 2, and city and then places order.
     - shopping-cart: shows the number of items in cart, a button to clear the shopping cart, a table with item, image, quantity and total price. And a button to place order.
     - shopping-cart-summary: order summary of the number of items in shopping cart, item quantity and item title, total price
-    - 
+
